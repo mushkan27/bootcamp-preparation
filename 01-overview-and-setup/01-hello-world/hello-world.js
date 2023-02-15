@@ -1,4 +1,6 @@
 console.log('hello world!');
+console.log('my name is muskan lama')
+
 
 // this is a comment!
 
